@@ -30,7 +30,7 @@ Completed networking labs involving VLANs, IPv4/IPv6 addressing, static routing,
 Built and configured virtual network environments while practicing server administration and cybersecurity fundamentals.
 
 ## Resume
-📄 [View My Resume](Nicole_Cohen_resume.docx)
+📄 [View My Resume](Nicole_Cohen_Resume-2026.pdf)
 
 
 ## Certifications
